@@ -7,3 +7,5 @@ vite.config.ts.*
 .env
 .env.*
 .roo
+attached_assets
+.local
